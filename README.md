@@ -20,6 +20,11 @@ Base de datos para dar de alta a un cliente.
 
 ![imagen](https://github.com/iviboot/013_BasedeDatos/assets/126647369/6f8a27db-4020-4a38-89bc-8434c5446e15)
 
+uso de XAAMP.
+
+![imagen](https://github.com/iviboot/013_BasedeDatos/assets/126647369/58017f54-046b-4f5a-b9d0-a700ebc42cf5)
+
+
 
 
 
