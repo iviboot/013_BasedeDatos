@@ -1,0 +1,87 @@
+body{
+    /* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #000000; /* Fondo oscuro para contrastar con texto blanco */
+    color: rgb(19, 1, 1); /* Color de texto blanco */
+    display: flex;
+    justify-content: center; /* Centrar horizontalmente */
+    align-items: center; /* Centrar verticalmente */
+    height: 100vh; /* Altura de la ventana del navegador */
+}
+
+.container {
+    text-align: center;
+    width: 80%;
+    max-width: 600px;
+    background-color: #444; /* Fondo más oscuro para el contenedor */
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+    color: rgb(15, 15, 15);
+}
+
+form {
+    background-color: #555; /* Fondo para formularios */
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    color: white; /* Color de texto blanco */
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+    color: white; /* Color de texto blanco */
+}
+
+input[type="text"], input[type="number"] {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #666; /* Fondo oscuro para inputs */
+    color: white; /* Color de texto blanco */
+}
+
+input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    color: rgb(20, 19, 19); /* Color de texto blanco */
+}
+
+th {
+    background-color: #555; /* Fondo oscuro para encabezados */
+}
+
+}
