@@ -16,6 +16,11 @@ Base de datos para dar de alta a un cliente.
  Base de datos consulta a clientes.
  ![imagen](https://github.com/iviboot/013_BasedeDatos/assets/126647369/211c58aa-be83-45be-89ff-2eb610a3d6e2)
 
+ Gestion de tablas relacionales.
+
+![imagen](https://github.com/iviboot/013_BasedeDatos/assets/126647369/6f8a27db-4020-4a38-89bc-8434c5446e15)
+
+
 
 
 
