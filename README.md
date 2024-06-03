@@ -3,7 +3,7 @@ Php ![icons8-php-48](https://github.com/iviboot/013_BasedeDatos/assets/126647369
 
 Sass, scss. ![icons8-avatar-descarado-48](https://github.com/iviboot/013_BasedeDatos/assets/126647369/e76e4722-ddcd-4b06-af9a-c5794b565830)
 
-PhPmyadmind. ![icons8-mysql-48](https://github.com/iviboot/013_BasedeDatos/assets/126647369/3de2a438-2689-4bcb-9f7f-53550365c6a3)
+PhPmyadmind. ![icons8-mysql-48](https://github.com/iviboot/013_BasedeDatos/assets/126647369/3de2a438-2689-4bcb-9f7f-53550365c6a3) 
 
 
 contraseña a una base de datos.
